@@ -1,5 +1,7 @@
 //http://www.spoj.com/problems/RENT/
 //Rent your Airplanes and make money 
+//https://www.commonlounge.com/discussion/67af185dc42d44bfbd12983c46677c34/all/cc4141e92a454ff581bff2415afeec37
+// ^The above link provides a good editorial by Himanshu Jaju with stepwise hints 
 
 #include <bits/stdc++.h>
 #define ll long long 
